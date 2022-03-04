@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("idea get");
         System.out.println("idea master");
         System.out.println("11");
+        System.out.println("22");
     }
 }
