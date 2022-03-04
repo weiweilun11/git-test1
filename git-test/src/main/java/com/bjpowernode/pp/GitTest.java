@@ -11,6 +11,6 @@ package com.bjpowernode.pp;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("idea get");
-        System.out.println("idea git2");
+        System.out.println("idea hot-fix");
     }
 }
